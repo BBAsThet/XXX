@@ -1,4 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="MARIO SALIERI", LA CIOCIARA
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/54l13r15-m0v135/CONCETTA%20LICATA.jpg" GROUP-TITLE="MARIO SALIERI", CONCETTA LICATA
+https://archive.org/download/54l13r15-m0v135/CONCETTA%20LICATA.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/54l13r15-m0v135/DRACULA.jpg" GROUP-TITLE="MARIO SALIERI", DRACULA
+https://archive.org/download/54l13r15-m0v135/DRACULA.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/54l13r15-m0v135/IL%20CONFESSIONALE.jpg" GROUP-TITLE="MARIO SALIERI", IL CONFESSIONALE
+https://archive.org/download/54l13r15-m0v135/IL%20CONFESSIONALE.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/54l13r15-m0v135/LA%20CIOCIARA.jpg" GROUP-TITLE="MARIO SALIERI", LA CIOCIARA
 https://archive.org/download/54l13r15-m0v135/LA%20CIOCIARA.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/54l13r15-m0v135/STAVROS.jpg" GROUP-TITLE="MARIO SALIERI", STRAVOS
