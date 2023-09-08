@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/54l13r15-m0v135/BAND%20OF%20BASTARD.jpg" GROUP-TITLE="MARIO SALIERI", BAND OF BASTARD
+https://archive.org/download/54l13r15-m0v135/BAND%20OF%20BASTARD.mp4
+
 #EXTINF:-1 TVG-LOGO="https://archive.org/download/54l13r15-m0v135/CAPRI%20VACATION.jpg" GROUP-TITLE="MARIO SALIERI", CAPRI VACATION
 https://archive.org/download/54l13r15-m0v135/CAPRI%20VACATION.mp4
 
